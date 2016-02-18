@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationTest1</string>
+    <string name="Ip">http://192.168.56.1:8888</string>
+    <string name="selectByUsername">http://192.168.56.1:8888/test/login.php</string>
+</resources>
